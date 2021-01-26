@@ -2,7 +2,7 @@
 Practise Swift Development with Storyboard and MVC pattern
 
 ## Purpose of this project
-TO be more familiar with MVC pattern
+To be more familiar with MVC pattern
 
 ## Programming Aspect
 Swift's structure, property, methods and immutability
