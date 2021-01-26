@@ -25,13 +25,7 @@ class ViewController: UIViewController {
 	@IBAction func choiceMade(_ sender: UIButton) {
 
 		storyBrain.nextStory(sender.currentTitle!)
-		
-		if sender.currentTitle! == "Turn Left"{
-			updateUI()
-		} else{
-			updateUI()
-		}
-		
+		updateUI()
 	}
 	
 	func updateUI(){
